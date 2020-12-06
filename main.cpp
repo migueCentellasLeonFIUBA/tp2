@@ -15,7 +15,7 @@ int main(){
 
 	ProcesoArchivo proceso;
 	proceso.lecturaArchivo();
-	cout<<"Prueba2"<<endl;
+	cout<<"Prueba2-"<<endl;
 	return 0;
 }
 
